@@ -1,9 +1,5 @@
 /*
-Katelyn Jaing
-Melissa Riddle
-Hector Medina
-CPSC 479-01
-Project 1: Concurrent two leader election algorithm
+Concurrent two leader election algorithm
 */
 
 #include <stdio.h>
